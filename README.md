@@ -90,3 +90,5 @@ repertoire1 repertoire2 repertoire3 mon_dossier
 
 Il existe bien entendu d'autres lignes de commandes, mais celles citées ci-dessus sont les plus courantes.
 Vous n'avez plus qu'à vous entraîner.
+
+Pour en savoir plus : https://www.maketecheasier.com/cheatsheet/linux-command-line/
