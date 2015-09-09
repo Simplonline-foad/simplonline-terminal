@@ -1,4 +1,4 @@
-# Terminal: les lignes de commandes
+# Terminal: les lignes de commande
 
 Qu'est-ce qu'un terminal ? 
 C'est l'interface qui permet d'intéragir avec l'ordinateur (pas de souris dans un terminal, tout se fait via le clavier !)
@@ -88,7 +88,7 @@ ls
 repertoire1 repertoire2 repertoire3 mon_dossier 
 ```
 
-Il existe bien entendu d'autres lignes de commandes, mais celles citées ci-dessus sont les plus courantes.
+Il existe bien entendu d'autres lignes de commande, mais celles citées ci-dessus sont les plus courantes.
 Vous n'avez plus qu'à vous entraîner.
 
 Pour en savoir plus : https://www.maketecheasier.com/cheatsheet/linux-command-line/
